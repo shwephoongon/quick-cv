@@ -53,7 +53,7 @@ const TopNav = () => {
   return (
     <NavigationMenu
       viewport={false}
-      className='max-w-full shadow-sm justify-start'
+      className='max-w-full shadow-sm justify-start mb-8'
     >
       <NavigationMenuList className='p-2'>
         <NavigationMenuItem>
